@@ -2,7 +2,17 @@
 ### Welcome to my GitHub  
 
 Hi! My name is **Bruna Lucas dos Santos**, I am 20 years old, and I am from Amazonas, Brazil.  
-I graduated from IFAM with a technical degree in Mechatronics and am currently pursuing a degree in **Software Engineering** at UFAM.  
+I graduated from IFAM with a technical degree in Mechatronics and am currently pursuing a degree in **Software Engineering** at UFAM.
+
+🌟 Passionate about Technology and Software Quality
+🎓 Software Engineering student | Creative solutions explorer
+📈 Focused on requirements analysis, software quality, and academic research
+💡 Enthusiast of scripts and automation to solve everyday challenges
+
+🚀 "The most meaningful way to succeed is to help others succeed." – Adam Grant
+🌱 Currently deepening my knowledge in quality practices and requirements to enhance project efficiency.
+
+Feel free to explore my repositories and connect with me! 😊
 
 ---
 
