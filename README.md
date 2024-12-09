@@ -1,16 +1,16 @@
 ## 👩🏻‍💻 Hello, my name is Bruna Santos  
 ### Welcome to my GitHub  
 
-Hi! My name is **Bruna Lucas dos Santos**, I am 20 years old, and I am from Amazonas, Brazil.  
-I graduated from IFAM with a technical degree in Mechatronics and am currently pursuing a degree in **Software Engineering** at UFAM.
+Hi! My name is **Bruna Lucas dos Santos**, I am 20 years old, and I am from **Amazonas, Brazil**.  
+I graduated from **IFAM** with a technical degree in **Mechatronics** and am currently pursuing a degree in **Software Engineering** at **UFAM**.  
 
-🌟 Passionate about Technology and Software Quality
-🎓 Software Engineering student | Creative solutions explorer
-📈 Focused on requirements analysis, software quality, and academic research
-💡 Enthusiast of scripts and automation to solve everyday challenges
+🌟 **Passionate about Technology and Software Quality**  
+🎓 **Software Engineering student** | Creative solutions explorer  
+📈 **Focused on requirements analysis, software quality, and academic research**  
+💡 **Enthusiast of scripts and automation to solve everyday challenges**  
 
-🚀 "The most meaningful way to succeed is to help others succeed." – Adam Grant
-🌱 Currently deepening my knowledge in quality practices and requirements to enhance project efficiency.
+🚀 *"The most meaningful way to succeed is to help others succeed."* – **Adam Grant**  
+🌱 **Currently deepening my knowledge in quality practices and requirements to enhance project efficiency.**  
 
 Feel free to explore my repositories and connect with me! 😊
 
@@ -42,6 +42,7 @@ Feel free to explore my repositories and connect with me! 😊
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="PowerShell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg">
+   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
